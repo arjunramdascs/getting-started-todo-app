@@ -4,11 +4,11 @@
     margin-bottom: 15px;
     border: transparent;
     border-radius: 5px;
-    box-shadow: 0 0 1em #ccc;
+    box-shadow: 0 0 1em #fcf;
     transition: all 0.2s ease-in-out;
 
     &:hover {
-        box-shadow: 0 0 1em #aaa;
+        box-shadow: 0 0 1em #faf;
     }
 
     &.completed {
